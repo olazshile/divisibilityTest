@@ -50,6 +50,6 @@
 
     }
 
-            (divisibilityTest(100));
-            (divisibilityTest(30));
+            divisibilityTest(100);
+            divisibilityTest(30);
     
